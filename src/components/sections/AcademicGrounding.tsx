@@ -46,7 +46,7 @@ export default function AcademicGrounding() {
                   Expected Graduation: 2026
                 </span>
                 <h3 className="text-2xl sm:text-3xl font-black text-white group-hover:text-purple-300 transition-colors">
-                  IMS Engineering College (AKTU)
+                  Dr. APJ Abdul Kalam Technical University
                 </h3>
                 <p className="text-lg font-bold text-gradient-purple mt-1 font-mono">
                   B.Tech in Computer Science and Engineering
