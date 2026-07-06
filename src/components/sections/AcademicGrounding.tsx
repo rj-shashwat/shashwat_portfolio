@@ -55,9 +55,6 @@ export default function AcademicGrounding() {
                   <span className="flex items-center gap-1.5">
                     <Calendar className="w-4 h-4 text-purple-400" /> 2022 – 2026
                   </span>
-                  <span className="flex items-center gap-1.5">
-                    <MapPin className="w-4 h-4 text-purple-400" /> Ghaziabad, India
-                  </span>
                 </div>
               </div>
             </div>
@@ -104,7 +101,7 @@ export default function AcademicGrounding() {
             </div>
             <div>
               <h4 className="text-lg font-bold text-white">D.A.V Public School (CBSE)</h4>
-              <p className="text-xs sm:text-sm text-purple-300 font-mono">Patna, India • Completed 2022</p>
+              <p className="text-xs sm:text-sm text-purple-300 font-mono">Completed 2022</p>
             </div>
           </div>
 

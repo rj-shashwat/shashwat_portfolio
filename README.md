@@ -84,10 +84,10 @@ Here are some of the core distributed backend projects showcased in this portfol
 
 ## 🎓 Academic Info
 
-* **Dr. APJ Abdul Kalam Technical University (AKTU) — Ghaziabad**
+* **Dr. APJ Abdul Kalam Technical University (AKTU)**
   * *Degree*: Bachelor of Technology (B.Tech) in Computer Science & Engineering
   * *Timeline*: 2022 – 2026 | *CGPA*: 7.60 / 10.0
-* **D.A.V Public School (CBSE) — Patna**
+* **D.A.V Public School (CBSE)**
   * *12th Senior Secondary*: 80.1% (2022) | *10th Secondary*: 81.6% (2020)
 
 ---
